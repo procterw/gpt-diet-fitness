@@ -39,3 +39,13 @@ Perhaps trying to use ChatGPT to track complex state is kind of a misuse of the 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a8db564c-00b0-49a3-a966-89750b6ca16d" alt="table2">
 </p>
+
+### UI brainstorming
+
+ - In the left panel, display _summaries_ of state objects:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d757af63-383d-4cf4-942d-99dfb0a31e87" alt="ui" width="400">
+</p>
+
+
+
