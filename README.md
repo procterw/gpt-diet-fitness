@@ -47,5 +47,12 @@ Perhaps trying to use ChatGPT to track complex state is kind of a misuse of the 
   <img src="https://github.com/user-attachments/assets/d757af63-383d-4cf4-942d-99dfb0a31e87" alt="ui" width="400">
 </p>
 
+#### Interactions with GPT
+ - General chat: pass _summary_ level context along with user prompt to ask questions
+ - Add food: pass and update the daily eating state object
+ - 'Complete' day of eating: create an extry in the larger running table state object
+ - Log activity, or actively workout: pass weekly checklist as well as recent state. For example, similar to eating, a user might log different parts of a workout as it happens
+ - 'Complete' activity: update the weekly checklist
+ - 'Complete' week of activity: update the running checklist table. Another option: only use this object as the source of truth and derive the weekly checklist based on the latest row
 
 
